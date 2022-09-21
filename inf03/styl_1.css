@@ -1,0 +1,49 @@
+body{
+    background-color: #F6E5DC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color:#2F180C;
+    text-align: center;
+    color:khaki;
+    height: 60px;
+}
+
+.obrazek{
+    width: 60%;
+    float: left;
+}
+
+.ceny{
+    font-size: 150%;
+    padding: 70px;
+    display: inline-block;
+   
+
+}
+
+.rezerwacja{
+    background-color: #D0B6A8;
+    text-align: center;
+    padding:30px;
+    clear:both
+  
+}
+
+footer{
+    background-color: #2F180C;
+    color:khaki;
+    height: 60px;
+}
+
+.przycisk{
+    background-color:#2F180C ;
+    color:khaki;
+    padding: 5px;
+    margin: 10px;
+}
+
+img{
+    height: 360px;
+}
